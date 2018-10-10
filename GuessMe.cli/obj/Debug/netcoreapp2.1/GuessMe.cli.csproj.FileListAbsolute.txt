@@ -1,0 +1,11 @@
+C:\Users\Shelley\Desktop\GuessMe-master\GuessMe.cli\bin\Debug\netcoreapp2.1\GuessMe.cli.deps.json
+C:\Users\Shelley\Desktop\GuessMe-master\GuessMe.cli\bin\Debug\netcoreapp2.1\GuessMe.cli.runtimeconfig.json
+C:\Users\Shelley\Desktop\GuessMe-master\GuessMe.cli\bin\Debug\netcoreapp2.1\GuessMe.cli.runtimeconfig.dev.json
+C:\Users\Shelley\Desktop\GuessMe-master\GuessMe.cli\bin\Debug\netcoreapp2.1\GuessMe.cli.dll
+C:\Users\Shelley\Desktop\GuessMe-master\GuessMe.cli\bin\Debug\netcoreapp2.1\GuessMe.cli.pdb
+C:\Users\Shelley\Desktop\GuessMe-master\GuessMe.cli\obj\Debug\netcoreapp2.1\GuessMe.cli.csprojAssemblyReference.cache
+C:\Users\Shelley\Desktop\GuessMe-master\GuessMe.cli\obj\Debug\netcoreapp2.1\GuessMe.cli.csproj.CoreCompileInputs.cache
+C:\Users\Shelley\Desktop\GuessMe-master\GuessMe.cli\obj\Debug\netcoreapp2.1\GuessMe.cli.AssemblyInfoInputs.cache
+C:\Users\Shelley\Desktop\GuessMe-master\GuessMe.cli\obj\Debug\netcoreapp2.1\GuessMe.cli.AssemblyInfo.cs
+C:\Users\Shelley\Desktop\GuessMe-master\GuessMe.cli\obj\Debug\netcoreapp2.1\GuessMe.cli.dll
+C:\Users\Shelley\Desktop\GuessMe-master\GuessMe.cli\obj\Debug\netcoreapp2.1\GuessMe.cli.pdb
